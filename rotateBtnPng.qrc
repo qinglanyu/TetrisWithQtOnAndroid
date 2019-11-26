@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img/Btns">
+        <file>img/directionBtn.png</file>
+        <file>img/directionBtn-down.png</file>
+        <file>img/RotateBtn.png</file>
+        <file>img/RotateBtn-down.png</file>
+        <file>img/settingBtn.png</file>
+    </qresource>
+</RCC>

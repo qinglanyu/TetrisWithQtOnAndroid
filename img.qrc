@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/normal.png</file>
+        <file>img/hover.png</file>
+        <file>img/goon.png</file>
+        <file>img/gpressed.png</file>
+        <file>img/handdown.png</file>
+        <file>img/handup.png</file>
+        <file>img/mute.png</file>
+        <file>img/paused.png</file>
+        <file>img/sound.png</file>
+        <file>img/ynormal.png</file>
+        <file>img/ypressed.png</file>
+        <file>img/gnormal.png</file>
+        <file>img/bump.png</file>
+    </qresource>
+</RCC>

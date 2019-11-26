@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/localAudio">
+        <file>audio/Tetris/StartGame.mp3</file>
+        <file>audio/Tetris/clearLine.mp3</file>
+        <file>audio/Tetris/hit.mp3</file>
+        <file>audio/Tetris/level.mp3</file>
+    </qresource>
+</RCC>

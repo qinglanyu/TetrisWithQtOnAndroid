@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/localfont">
+        <file>font/LCDAT-TPhoneTimeDate-1.ttf</file>
+        <file>font/LED.TTF</file>
+        <file>font/液晶数字字体.TTF</file>
+        <file>font/DS-Digital/DS-DIGI-1.ttf</file>
+        <file>font/DS-Digital/DS-DIGIB-2.ttf</file>
+        <file>font/DS-Digital/DS-DIGII-3.ttf</file>
+        <file>font/DS-Digital/DS-DIGIT-4.ttf</file>
+    </qresource>
+</RCC>
